@@ -12,7 +12,7 @@
  + Taught Mobile Application Development  
  *Basics of Android Studio (Java and XML)*
 
- **_US Air Force_**
+ **_US Air Force_**  
  *June 2002 - May 2017*
  + Developed ASP personnel database frontend 
  + Maintained PHP frontend to personnel database
