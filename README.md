@@ -2,6 +2,6 @@
 
 ## Experience
 ### NEISD STEM Academy
-#### August 2014 - Present
+ *August 2014 - Present*
 
 ## Education
