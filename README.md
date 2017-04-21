@@ -11,6 +11,7 @@
  *Core Java / Problem Solving*
  + Taught Mobile Application Development  
  *Basics of Android Studio (Java and XML)*
+ + Selected for special honor twice by outstanding seniors
 
  **_US Air Force_**  
  *June 2002 - May 2017*
