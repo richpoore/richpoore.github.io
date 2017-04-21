@@ -15,6 +15,7 @@
 
  **_US Air Force_**  
  *June 2002 - May 2017*
+ + Won Bronze Medal for Computer Programming Carreer field in 2012 General Larson Awards
  + Developed ASP personnel database frontend 
  + Maintained PHP frontend to personnel database
  + Created VBA database for tracking operational data
