@@ -27,8 +27,8 @@
 
  **_Liberty University_** - *2006 - 2011*           
  *Bachelor of Science*   
- _Major - Secondary Education_   
- _Minor - Psychology_
+ + _Major - Secondary Education_   
+ + _Minor - Psychology_
 
  **_Community College of the Air Force_** - *2014*           
  *Associate of Arts* - _Computer Information Systems_
